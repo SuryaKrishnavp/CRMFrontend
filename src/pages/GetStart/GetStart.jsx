@@ -6,7 +6,7 @@ function GetStart(){
             <div  className={styles.body}>
 
                 <div className={styles.container}>
-                    <h1>DEVLOK</h1>
+                    <h1>REAL CRM</h1>
                     <p>DEVELOPERS</p>
                 </div>
 
